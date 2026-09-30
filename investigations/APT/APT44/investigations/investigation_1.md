@@ -93,3 +93,32 @@ And I started wondering, what kind of files are these? But I ran into a problemâ
 <img width="1403" height="745" alt="image" src="https://github.com/user-attachments/assets/f409c25c-c4ef-412a-954f-8a98ed99792f" />
 
 Here's what VirusTotal showed. It looks like this investigation might be closed by tomorrow. Bye for now, everyone.
+
+**30.09.2026**
+Hi everyone, today we're continuing our investigation. I came across a report from Cert-UA 
+And that gave me a ton of information about indicators and attack techniques
+
+T1566, T1566.002, T1059.001, T1059.004, T1204.002, T1053.005, T1036, T1027, T1105
+
+hXXps://douncloud[.]site/sitedatastorageadvanced/?subid=%UUID%---%MACHINEGUID%
+hXXps://sourceforge[.]net/projects/soprabulgariavpn/files/sopravpn_v10.exe/download
+hXXps://sourceforge[.]net/projects/sopravpn/files/sopravpn_v5.exe/download
+https://sourceforge[.]net/projects/sopravpn/files/sopravpn.exe/download
+hXXps://soprasteria-bg[.]com/
+hXXps://atlasgroup-ua[.]com/
+udp://139.28.36[.]23:51820
+139.28.36[.]23
+douncloud[.]site
+atlasgroup-ua[.]com (2026-02-10)
+soprasteria-bg[.]com (2026-07-16)
+soprasteriabg[.]com (2026-05-14)
+@Sales_ManagerABG (Telegram)
+alex.boichenkoit@ukr[.]net
+mike.weitzman@soprasteria-bg[.]com
+
+bf6670760305228fd83a5e1467a99d91	4646ea832a61c9f7bdb11fee64ad82ae6d9856d2f3a4b36a8a4a571145be1260	sopravpn_v7__1_.exe
+d478e96bfb0f3a586c6d17d8bfc874ea	480ab92995295378c9b30b8b6fb61516313ed7482eb893967841b05e233fe341	sopraconf.conf
+088acb50f7a7e54f887da7b561e18613	22a21958a2c4752214192175793c13acae2f6d766007d55d2140f1570ae1df67	sopraconfLinux.conf
+be11cc798c239b9d4eaa76ab03d07168	aeb702f65445d12605a84be6fa31545c71be0bf619b1cbedbee5800a43fc6793	SopraVPN.exe
+676f44c7fa03693247d0dd5c3a0e13f7	6a60152f7c83d3416925316b75eb7720953cdd69aae9f0e088c789c25f51437f	SopraVPN.exe
+That's all for today. Thank you, everyone, and see you next time!
